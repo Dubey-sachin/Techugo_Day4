@@ -11,7 +11,7 @@ Using array of users:
 // const usersName=["Sachin","Murli", "Amriteshwar","Munna","Amar"];
 // usersName.forEach((name)=>{console.log(name)});    aaa
 
-
+// andkd
 
 const users=[
     {name:"Sachin",active:true,id:0,role:"admin",email:"Sachin@gmail.com"},
