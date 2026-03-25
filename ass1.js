@@ -9,7 +9,11 @@ Using array of users:
 */
 
 // const usersName=["Sachin","Murli", "Amriteshwar","Munna","Amar"];
+
 // usersName.forEach((name)=>{console.log(name)});
+
+// usersName.forEach((name)=>{console.log(name)});    
+
 
 
 
